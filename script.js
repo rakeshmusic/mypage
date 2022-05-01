@@ -3,7 +3,7 @@ function load(){
   head.innerText = "hello1";
 }
 
-document.addEventListener('DOMContentLoaded', load);
+//document.addEventListener('DOMContentLoaded', load);
 
 // function closure(){
 //   let x=0;
