@@ -10,10 +10,10 @@ body{
   line-height: 1.5;
 }
 
-/* .font-roboto{
+.font-roboto{
   font-family: 'Roboto', sans-serif; 
   font-display: swap;
-} */
+}
 
 .main-container{
   max-width: 1920px; 
