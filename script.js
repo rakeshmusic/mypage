@@ -5,26 +5,26 @@ function load(){
 
 document.addEventListener('DOMContentLoaded', load);
 
-function closure(){
-  let x=0;
-  function increment(){
-    x++;
-    console.log(x);
-  }
-  function decrement(){
-    x--;
-    console.log(x);
-  }
-  function Init(){
-    x=0;
-  }
-  return {
-    increment,
-    decrement
-  }
-}
+// function closure(){
+//   let x=0;
+//   function increment(){
+//     x++;
+//     console.log(x);
+//   }
+//   function decrement(){
+//     x--;
+//     console.log(x);
+//   }
+//   function Init(){
+//     x=0;
+//   }
+//   return {
+//     increment,
+//     decrement
+//   }
+// }
 
-let y = closure();
+// let y = closure();
 // y.increment();
 // y.increment();
 // y.increment();
