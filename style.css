@@ -1,13 +1,16 @@
 *{
   margin:0;
   padding:0;
-  box-sizing: border-box;
-  font-family: 'Roboto', sans-serif; 
-  font-display: swap;
+  box-sizing: border-box;  
 }
 body{
   font-size: 1rem;
   line-height: 1.5;
+}
+
+.font-roboto{
+  font-family: 'Roboto', sans-serif; 
+  font-display: swap;
 }
 
 .main-container{
