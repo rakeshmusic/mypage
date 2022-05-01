@@ -25,8 +25,8 @@ function closure(){
 }
 
 let y = closure();
-y.increment();
-y.increment();
-y.increment();
-y.decrement();
+// y.increment();
+// y.increment();
+// y.increment();
+// y.decrement();
 
